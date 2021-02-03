@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Muhizi Stephane",
+    "occupation": "Developer & Designer",
+    "description": "Sofisticated,Smart,beautiful, i do transform your Experience through Codes..",
+    "image": "profilepic.jpeg",
+    "bio": "I'm a web developer(full stack) and have started my career since 2019 as a freelancer, I like working with people and especially when it comes to a complex project with a less amount of time , the Aim is to transform your Work experience from simple to awesomness.",
+    "contactmessage": "Feel free to contact me, i will buy coffee.",
+    "email": "muhizistephane@gmail.com",
+    "phone": "+254 713500934",
+    "address": {
+      "street": "general kago road",
+      "city": "Nairobi",
+      "state": "Kenya",
+      "zip": "00100-300"
+    },
+    "website": "https://muhizistephane.wixsite.com/portfolio",
+    "resumedownload": "https://d9a60cf6-f571-430c-ab18-23d264a34586.filesusr.com/ugd/d0fd38_d2c7e68225af457b9f9c9738c90b772c.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCX6IF7eB7ST-4eBr4eoh3hQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/guystephane.pepiqs",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/guy-stephane-muhizi-2b653b18a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/muhizisteph/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/muhizisteph",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Mount Kenya University - Kenya",
+        "degree": "Bachelor's Degree, information Technology",
+        "graduated": "May 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Frelancer",
+        "title": "Developer and Designer",
+        "years": "january 2019 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "CMS (Wix&wordpress...)",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Design",
+        "level": "98%"
+      },
+      {
+        "name": "Databases",
+        "level":"70%"
+      },
+      {
+        "name": "Adobe Creations",
+        "level": "86%"
+      },
+      {
+        "name": "App Development(Flutter)",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Delivery Service Website",
+        "category": "",
+        "image": "Tuma Express.png",
+        "url": "https://www.tumaexpress.net"
+      },
+      {
+        "title": "NGO Website",
+        "category": "",
+        "image": "Univers.png",
+        "url": "https://www.universburundi.com"
+      },
+      {
+        "title": "Commercial Video",
+        "category": "",
+        "image": "Cartoon Tuma express.png",
+        "url": "https://www.youtube.com/watch?v=egxTnllibx4"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I highly Recommend Stephan for your software project, either if you are startup or just want to personalize your things, he is the best.",
+        "user": "Gyslain Mugisha"
+      },
+      {
+        "text": "j'ai vu mon business changer en un seul click, apres avoir travailler avec Stephan, il est Extra en plus ses prix sont affordable. ",
+        "user": "Elsie kankunze"
+      }
+    ]
+  }
+}
